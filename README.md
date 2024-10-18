@@ -17,8 +17,7 @@ The **Chromebook Data Dashboard** consists of three key pages:
 - **Card Visualizations**: Provides quick, at-a-glance totals for device statistics.
 - **Detailed Tables**: Lists individual devices and their associated OS versions.
 
-#### Screenshots
-*Screenshots from the Power BI dashboard showcasing the different visualizations and slicer functionality.*
+![Alt text for your image](screenshots/screenshot(1))
 
 ---
 
