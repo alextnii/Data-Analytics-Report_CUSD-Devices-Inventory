@@ -7,17 +7,19 @@ This repository is a summary of the process of how I created two Power BI dashbo
 ## Dashboard 1: Chromebook Data Dashboard
 
 The **Chromebook Data Dashboard** consists of three key pages:
-1. **OS Version**: Displays the distribution of Chromebook OS versions using stacked bar charts and includes dynamic bins for any new OS versions added to the data.
-2. **End of Support**: Tracks Chromebooks' support statuses, with similar visualization layouts to the OS Version page.
-3. **Last Sync Date**: Shows the last sync dates of each Chromebook, with the added functionality of filters and bins to easily select devices based on their sync dates.
+1. **OS Version Page**: Displays the distribution of Chromebook OS versions using stacked bar charts and includes dynamic bins for any new OS versions added to the data.
+2. **End of Support Page**: Tracks Chromebooks' support statuses, with similar visualization layouts to the OS Version page.
+3. **Last Sync Date Page**: Shows the last sync dates of each Chromebook, with the added functionality of filters and bins to easily select devices based on their sync dates.
 
 ### Key Features:
-- **Slicer Functionality**: Allows users to filter results by one or multiple locations within the district (e.g., Clovis West High School).
+- **Slicer Functionality**: Allows users to filter results by one or multiple locations within the district (e.g., Clovis West High School). There are 54 different locations that the user can choose from.
 - **Dynamic Binning**: Automatically adjusts OS version bins as new data is pulled.
 - **Card Visualizations**: Provides quick, at-a-glance totals for device statistics.
 - **Detailed Tables**: Lists individual devices and their associated OS versions.
 
-![Alt text for your image](Screenshots/D1_P1_NF.png)
+#### 1. OS Version Page
+- This page displays Card Visualizations for Total number of Chromebooks in the selected location(s), and shows two bar charts for the OS Version, and Grouped OS Versions. It also displays a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
+![Displays Chromebook OS Version Data for all locations](Screenshots/D1_P1_NF.png)
 
 ---
 
