@@ -32,8 +32,19 @@ Chromebook OS Version Page for 'CHS' (Clovis High School)
 Chromebook End of Support Page for 'All Locations'
 ![Displays Chromebook End of Support Data for all locations](Screenshots/D1_P2_NF.png)
 
+#### 3. Last Sync Date Page
+- The Chromebook Last Sync Date Page displays the Chromebook COunt by Last Sync Year. There is an additional button selector that appears which gives the option to 'Show All', show 'Last Synced Within 90 Days', or show 'Last Synced Over 90 Days Ago'. There are also card visalizations that display the Total number of chromebooks, and the count for Chromebooks last synced within 90 days and last synced over 90 days ago. Again, there is a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
 
-## Project 2: Windows Device Data Dashboard
+Chromebook End of Support Page for 'All Locations' and Showing All Chromebooks Regardless of Last Sync Date
+![Displays Chromebook Last Sync Date Page (Show All)](Screenshots/D1_P3_NF_ShowAll.png)
+
+Chromebook End of Support Page for 'All Locations' and Showing Chromebooks with a Last Sync Date within 90 Days
+![Displays Chromebook Last Sync Date Page (Show All)](Screenshots/D1_P3_NF_Within90.png)
+
+Chromebook End of Support Page for 'All Locations' and Showing Chromebooks with a Last Sync Date of Over 90 Days Ago
+![Displays Chromebook Last Sync Date Page (Show All)](Screenshots/D1_P3_NF_Over90.png)
+
+## Dashboard 2: Windows Device Data Dashboard
 
 The **Windows Device Data Dashboard** was a 2-page interactive dashboard that filtered data by categories such as Year Acquired and OS Version. This project followed a similar structure to the Chromebook dashboard, but I was able to complete it much more efficiently, having gained experience from the previous project.
 
