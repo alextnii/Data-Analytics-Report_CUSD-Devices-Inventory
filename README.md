@@ -30,7 +30,6 @@ Chromebook OS Version Page for 'CHS' (Clovis High School)
 - The Chromebook End Of Support page displays two bar charts that display the Chromebook Count by End of Support Year as well as Chromebook Count by Year Acquired. There is a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
 
 Chromebook End of Support Page for 'All Locations'
-![Displays Chromebook End of Support Data for all locations](Screenshots/D1_P2_NF.png)
 
 #### 3. Last Sync Date Page
 - The Chromebook Last Sync Date Page displays the Chromebook COunt by Last Sync Year. There is an additional button selector that appears which gives the option to 'Show All', show 'Last Synced Within 90 Days', or show 'Last Synced Over 90 Days Ago'. There are also card visalizations that display the Total number of chromebooks, and the count for Chromebooks last synced within 90 days and last synced over 90 days ago. Again, there is a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
