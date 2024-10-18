@@ -19,13 +19,19 @@ The **Chromebook Data Dashboard** consists of three key pages:
 
 #### 1. OS Version Page
 - The Chromebook OS Version page displays Card Visualizations for Total number of Chromebooks in the selected location(s), and shows two bar charts for the OS Version, and Grouped OS Versions. It also displays a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
-  
-![Displays Chromebook OS Version Data for all locations](Screenshots/D1_P1_NF.png)
-Chromebook OS Version Data for 'All Locations'
 
-![Displays Chromebook OS Version Data for all locations](Screenshots/D1_P1_CHS.png)
-Chromebook OS Version Data for 'CHS' (Clovis High School)
----
+Chromebook OS Version Page for 'All Locations'
+![Displays Chromebook OS Version Data for all locations](Screenshots/D1_P1_NF.png)
+
+Chromebook OS Version Page for 'CHS' (Clovis High School)
+![Displays Chromebook OS Version Data for Clovis High School](Screenshots/D1_P1_CHS.png)
+
+#### 2. End of Support Page
+- The Chromebook End Of Support page displays two bar charts that display the Chromebook Count by End of Support Year as well as Chromebook Count by Year Acquired. There is a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
+
+Chromebook End of Support Page for 'All Locations'
+![Displays Chromebook End of Support Data for all locations](Screenshots/D1_P2_NF.png)
+
 
 ## Project 2: Windows Device Data Dashboard
 
