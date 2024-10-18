@@ -17,7 +17,7 @@ The **Chromebook Data Dashboard** consists of three key pages:
 - **Card Visualizations**: Provides quick, at-a-glance totals for device statistics.
 - **Detailed Tables**: Lists individual devices and their associated OS versions.
 
-![Alt text for your image](screenshots/screenshot(1))
+![Alt text for your image](screenshots/Screenshot (1).png)
 
 ---
 
