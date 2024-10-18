@@ -7,7 +7,7 @@ This repository is a summary of the process of how I created two Power BI dashbo
 ## Dashboard 1: Chromebook Data Dashboard
 
 The **Chromebook Data Dashboard** consists of three key pages:
-1. **OS Version Page**: Displays the distribution of Chromebook OS versions using stacked bar charts and includes dynamic bins for any new OS versions added to the data.
+1. **Chromebook OS Version Page**: Displays the distribution of Chromebook OS versions using stacked bar charts and includes dynamic bins for any new OS versions added to the data.
 2. **End of Support Page**: Tracks Chromebooks' support statuses, with similar visualization layouts to the OS Version page.
 3. **Last Sync Date Page**: Shows the last sync dates of each Chromebook, with the added functionality of filters and bins to easily select devices based on their sync dates.
 
@@ -18,9 +18,13 @@ The **Chromebook Data Dashboard** consists of three key pages:
 - **Detailed Tables**: Lists individual devices and their associated OS versions.
 
 #### 1. OS Version Page
-- This page displays Card Visualizations for Total number of Chromebooks in the selected location(s), and shows two bar charts for the OS Version, and Grouped OS Versions. It also displays a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
+- The Chromebook OS Version page displays Card Visualizations for Total number of Chromebooks in the selected location(s), and shows two bar charts for the OS Version, and Grouped OS Versions. It also displays a table for the purpose of identifying specific Chromebooks Asset Numbers of interest based on the previous filtering.
+  
 ![Displays Chromebook OS Version Data for all locations](Screenshots/D1_P1_NF.png)
+Chromebook OS Version Data for 'All Locations'
 
+![Displays Chromebook OS Version Data for all locations](Screenshots/D1_P1_CHS.png)
+Chromebook OS Version Data for 'CHS' (Clovis High School)
 ---
 
 ## Project 2: Windows Device Data Dashboard
