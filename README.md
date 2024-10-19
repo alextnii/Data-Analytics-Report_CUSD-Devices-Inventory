@@ -46,14 +46,25 @@ Chromebook End of Support Page for 'All Locations' and Showing Chromebooks with 
 
 ## Dashboard 2: Windows Device Data Dashboard
 
-The **Windows Device Data Dashboard** was a 2-page interactive dashboard that filtered data by categories such as Year Acquired and OS Version. This project followed a similar structure to the Chromebook dashboard, but I was able to complete it much more efficiently, having gained experience from the previous project.
+The **Windows Device Data Dashboard** consists of 2 pages: 
+1. **Year Acquired Page**: Displays distribution of Windows Device data by Year Acquired.
+2. **OS Version Page**: Displays distribution of Windows Device data by OS Version.
 
 ### Key Features:
 - **Slicers and Filters**: Users can filter the data based on year, OS version, and other important categories.
 - **Efficient Design**: Leveraged experience from the Chromebook dashboard project to quickly build and refine the Windows device dashboard.
 
-#### Screenshots
-*Screenshots from the Power BI dashboard showcasing the layout and filter capabilities.*
+#### 1. Windows Year Acquired Page
+- The Windows Year Acquired Page displays a bar chart for the Device Count by the Year Acquired. It also displays a table for the purpose of identifying specific Windows Device Asset Numbers of interest based on the previous filtering.
+
+Windows Year Acquired Page for 'All Locations'
+![Displays Windows Year Acquired for all locations](Screenshots/D2_P1_NF.png)
+
+#### 2. Windows OS Version Page
+- The Windows OS Version Page displays a bar chart for the Device Count by the OS Version. It also displays a table for the purpose of identifying specific Windows Device Asset Numbers of interest based on the previous filtering.
+
+Windows OS Version Page for 'All Locations'
+![Displays Windows OS Version for all locations](Screenshots/D2_P2_NF.png)
 
 ---
 
