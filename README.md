@@ -3,6 +3,12 @@
 ## Project Overview:
 This repository is a summary of the process of how I created two Power BI dashboards for my internship at Clovis Unified School District (CUSD). Disclaimer: Due to privacy and confidentiality agreements with CUSD's technology department, the actual data used in these projects cannot be included in this repository. The dashboards showcased here were built using their private inventory database. Only screenshots of the final visualizations will be shown here.
 
+### Tools & Technologies
+This project was built using:
+- **SQL** for querying and managing the dataset.
+- **MySQL Workbench** for database management and executing SQL queries.
+- **Microsoft Power BI** for developing interactive dashboards and visualizations.
+- **Power Query** for data transformation and preparation.
 
 ## Dashboard 1: Chromebook Data Dashboard
 
